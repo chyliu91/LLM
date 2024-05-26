@@ -27,7 +27,7 @@ plugins:
     - search
 
 nav:
-    - 主页: index.md
+    - 主页: ./index.md
     - Transformer:
         ./Transformer/Transformer  网络架构.md 
     
